@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turtletree-labs-website",
+  "private_key_id": "db44f3ef3826b081e1f3f9123170366938f7030a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC29i2nRX7Y43S7\nXRMUYBPe9zH2Q7TnApUJY884GbMg4oWS2gW8Be/3YMLKXHcXjGKdTdnXQhZt0Q63\nOBLaxV+Gl3QMBSbIm7NNhZFddxUVMb9hydjBp24KBwH5OUwQmzrqV29tYotsZhlk\ncsdpklV/pu4j/NQFgMLll/U1yTVo2W+vY7282weNhapySa06aIxeBqpqT0xTp6vU\nmI/Q9fM4FP7J6gd8WgSShSexYyQ8i3lehsJhIVQAWvkBVnvTF5idSWk700ndKZVH\nfBpCBnd4jASvdNMuGaYgeHyFydYYfc1YukLpbYTIdzrA5xjUpIcKvwTZjv+U3GJ/\n7yoLU5iPAgMBAAECggEATtcBMDnFoc9N32kJjjeiiGtLx7tASmV19HBifGGyq0KB\nXZj+bJnAYIB9H7c9iFOxsOg5rUToplS2OyR6F3SCp9w+oOldX4eceZTLYZOtbY8c\n0ZYphbVQuRhw9MSIbwV9GzsnJGMZAlJysbK2FFt+5T15E9/gOyjTkxzqiM1V6wJA\n0dcMq4iy57BVDZXT9kZYCO8Ke5qPDughgDpmhQ6AsQh6B0G3iovWiEUm3gGU5f/T\nkjEJRGzCTl425WYK3w4Qz+nxQdit4eW7ZLxtWB7Bei77jnR/w68TFi//xR6wa7m7\nvD0pjBa9jPW+aD58E3ZBKD4Ku8ReCOeXtvl4fSpj9QKBgQDbRjdPTbmHgMDLQWA/\n8kH7mCZjCRmL9axwTS3P9t65IZSGGVU6XEfvEd6cJ4UqW1JLMo8netueoH0jKmJC\nN5Og6rgE52E3/QPUvvGYGXTpX4cKssEuXpN60fiMxidehwlKQVzV+IDQVEF0zRfg\nCMw5jALDuJQH8pM0hhS0umasVQKBgQDVmv3ONHxuhOoRXv/UoYPfjL5G22/872jN\nTe/OxfYyQ7UbVhnvp+7wNCGbDUYTKCMEC+q82Seu4f6Ou5nXDU3urZRzJgUQ0saL\nWW1nj7RkFijocT/3yjohKRjII1PJfUQXfXJgbwVIitxdzNuwF5NP/z0q/UNqo5lg\nY+4kqwvVUwKBgBWw3XnP04GPAANbRT0uJs7Pn0R+uvM4a0V0rQp8fk3L/5hAW0j5\npfgFSYMi+a5V+E8OAlFCewU3FQnsgGnSe50YevmpNdnHAqEB/n4wTntjgsVRJ4EB\nxA8LRE4QsAZOz2F0E83q1jtFinAWdb0owaMTsZZQ5PvgSCWS+eti4RM9AoGAJ6wd\nr4q4AZ7WClvmkAtffsmZHXfsGMIuaNMs0u6Zh0RkAqu/LW+3RQ2poC6a8TvnJP1B\nn8mFQUngCYp2TCbAbq/2flx1XGaJUaBOXYmnK1+iQWmnQ9JfcYE8hQ9qpGWLnAFE\nmPyFsq93tkQyGUaHqbfyGGXpe4jfF7P3qv/JttkCgYAWGMVc31E6heAVvIUOb/rd\nYAhhVC5DlicEXJPOid3/Y3ZDDusLdTZRVvN/R2suo0WeVTu7+Y4Jx38OIN2POw/+\n/17r0bmC9RXUpHiXnKTWEW5S1DghjQBf3MnQW/fwaTb+K9XCtZ1kdmLyf0Omu466\nVowvNWVLfgnpH5D0RX7v7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "baetoti@turtletree-labs-website.iam.gserviceaccount.com",
+  "client_id": "102555693291113907192",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/baetoti%40turtletree-labs-website.iam.gserviceaccount.com"
+}
